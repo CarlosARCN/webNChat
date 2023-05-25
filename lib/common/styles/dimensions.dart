@@ -1,0 +1,49 @@
+class Dimensions {
+  static const double zero = 0;
+  static const double x1 = 1.0;
+  static const double x2 = 2.0;
+  static const double x4 = 4.0;
+  static const double x6 = 6.0;
+  static const double x8 = 8.0;
+  static const double x10 = 10.0;
+  static const double x11 = 11.0;
+  static const double x12 = 12.0;
+  static const double x13 = 13.0;
+  static const double x14 = 14.0;
+  static const double x15 = 15.0;
+  static const double x16 = 16.0;
+  static const double x17 = 17.0;
+  static const double x18 = 18.0;
+  static const double x20 = 20.0;
+  static const double x22 = 22.0;
+  static const double x24 = 24.0;
+  static const double x25 = 25.0;
+  static const double x26 = 26.0;
+  static const double x27 = 27.0;
+  static const double x30 = 30.0;
+  static const double x32 = 32.0;
+  static const double x34 = 34.0;
+  static const double x38 = 38.0;
+  static const double x40 = 40.0;
+  static const double x42 = 42.0;
+  static const double x48 = 48.0;
+  static const double x50 = 50.0;
+  static const double x56 = 56.0;
+  static const double x60 = 60.0;
+  static const double x61 = 61.0;
+  static const double x64 = 64.0;
+  static const double x70 = 70;
+  static const double x83 = 83;
+  static const double x85 = 85;
+  static const double x90 = 90;
+  static const double x94 = 94;
+  static const double x100 = 100;
+  static const double x120 = 120;
+  static const double x200 = 200;
+  static const double x297 = 297;
+  static const double x350 = 350;
+  static const double x1200 = 1200;
+
+  // Dimensions alias
+  static const double tiny = 0.5;
+}
